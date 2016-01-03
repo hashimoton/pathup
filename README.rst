@@ -33,8 +33,8 @@ Usage
 
 Without any options, show current system path and backup if changed.
 
--e  --edit     edit system_path.txt 
--u  --update   update system path with system_path.txt
+-e     edit system_path.txt 
+-u     update system path with system_path.txt
 
 =========
 LICENSE
