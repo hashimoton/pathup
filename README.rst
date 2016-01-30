@@ -36,6 +36,8 @@ Without any options, show current system path and backup if changed.
 -e     edit system_path.txt 
 -u     update system path with system_path.txt
 
+The -u option may require administrator privileges.
+
 =========
 LICENSE
 =========
