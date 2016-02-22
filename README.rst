@@ -14,7 +14,7 @@ Works on Windows 7.
 REQUIREMENTS
 ==============
 
-Ruby 1.9.3 or later
+Ruby 1.9.3 or later + Diff::LCS
 
 =========
 SETUP
