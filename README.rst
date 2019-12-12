@@ -20,6 +20,9 @@ Ruby 1.9.3 or later + Diff::LCS
 SETUP
 =========
 
+::
+  > gem install diff-lcs
+
 Just copy pathup.rb into your convenient directory.
 
 =========
