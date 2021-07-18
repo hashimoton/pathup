@@ -6,7 +6,7 @@ require "fileutils"
 require "optparse"
 require "diff/lcs"
 require "win32ole"
-require "win32api"
+require "./win32api"
 
 
 class PathUp
