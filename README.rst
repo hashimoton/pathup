@@ -21,6 +21,7 @@ SETUP
 =========
 
 ::
+
   > gem install diff-lcs
 
 Just copy pathup.rb into your convenient directory.
@@ -41,10 +42,5 @@ Without any options, show current system path and backup if changed.
 
 The -u option may require administrator privileges.
 
-=========
-LICENSE
-=========
-
-Public Domain
 
 .. EOF
