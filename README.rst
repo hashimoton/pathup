@@ -8,13 +8,15 @@ System path updator for Windows
 PLATFORMS
 ===========
 
-Works on Windows 7.
+Works on Windows 7, 10
 
 ==============
 REQUIREMENTS
 ==============
 
-Ruby 1.9.3 or later + Diff::LCS
+- Ruby 1.9.3 or later
+- Diff::LCS
+- Win32API (since Ruby 3.0)
 
 =========
 SETUP
@@ -23,6 +25,7 @@ SETUP
 ::
 
   > gem install diff-lcs
+  > gem install win32api
 
 Just copy pathup.rb into your convenient directory.
 
